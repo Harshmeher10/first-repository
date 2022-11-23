@@ -1,0 +1,11 @@
+rollno:"38"
+name:"Harsh Meher"
+address:"Virar"
+print(rollno,name,address)
+print("***Student Details***")
+rollno=input("Enter Roll no:")
+print("You have entered:",rollno)
+name=input("Enter Name:")
+print("You have entered:",name)
+address=input("Enter Address:")
+print("You have entered:",address)
